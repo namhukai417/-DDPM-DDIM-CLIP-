@@ -1,1 +1,2 @@
 # -DDPM-DDIM-CLIP-
+# diffusion 
