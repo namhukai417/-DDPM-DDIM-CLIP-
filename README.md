@@ -1,7 +1,7 @@
 # -DDPM-DDIM-CLIP-
 순서 / 파일 / 역할 분류
-0 diffusion(A, V, C+V, others).py  이미지 합성
-0 diffusion(C).py  이미지 합성
+0 diffusion(A, V, C+V, others).py  이미지 합성 \n
+0 diffusion(C).py  이미지 합성\n
 1  filter_syn_quality.py   데이터 준비 (합성풀 C·C+V·others)  
 1  filter_syn_quality.py   데이터 준비 (합성풀 A·V)        
 2  build_cases_v3.py     핵심 — K-fold split + manifest  
